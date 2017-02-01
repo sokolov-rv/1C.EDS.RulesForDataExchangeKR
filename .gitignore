@@ -1,0 +1,4 @@
+# исключить первичную выгрузку Реутов->Королев
+/*-gitignore.xml
+/md_rupp.xml
+/md_kupp.xml
